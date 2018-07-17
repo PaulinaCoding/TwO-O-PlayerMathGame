@@ -15,8 +15,8 @@
 #Player(current_player)
 Methods
 -lives per player
--answers per player
--score per player
+-answers per player (correct ones? do we need them when we have a score?)
+-score per player - the correct answers
 -name
 
 
