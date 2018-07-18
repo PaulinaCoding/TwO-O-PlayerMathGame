@@ -32,7 +32,7 @@ Methods
 
 
 #Answer
--searching quiestions
+-searching questions
 -questions(1st number, 2nd number, sum  - correct answer)
 -correct answer confirmation - compare the given answer and the right answer
 -telling if the answer was correct
